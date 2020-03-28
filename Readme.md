@@ -10,7 +10,7 @@ Class wrapper untuk mengambil data dari RestApi api.kawalcorona.com
 
 - via composer
     ```
-    composer require pravodev/kawalcorona-php
+    composer require pravodev/kawalcorona
     ```
 ## Cara Penggunaan
 
