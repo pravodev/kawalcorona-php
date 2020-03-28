@@ -1,6 +1,6 @@
 {
     "name": "pravodev/kawalcorona",
-    "description": "Package untuk mengambil data corona",
+    "description": "Simple PHP Wrapper class to call rest api from api.kawalcorona.com",
     "license": "MIT",
     "authors": [
         {
